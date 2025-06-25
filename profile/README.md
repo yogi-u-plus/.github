@@ -3,7 +3,7 @@
     
 </br>
 
-### ✨ 유레카 종합 프로젝트 2조 [최우수수상]
+### ✨ 유레카 종합 프로젝트 2조 - **최우수 수상 🥇** 
 <img width="1614" alt="image" src="https://github.com/user-attachments/assets/747b4ce3-ec66-4621-9dbc-950867b4c714" />
 
 ### ✨ 팀원 소개
@@ -41,6 +41,7 @@
 - [요기 U+_시연 영상](https://www.youtube.com/watch?v=7GigT9pcmN0) 
 - [요기 U+ 발표 자료](https://www.miricanvas.com/v/14sb57t)
 - [요기 U+ 화면설계서](https://docs.google.com/presentation/d/19dwJGayGG2ZbSe_dLF5Zf4MvVnqt3qHGJFCBUD_hlZs/edit?usp=sharing)
+- [요기 U+ 기확안](https://docs.google.com/document/d/1Yg1epSkwoV-PPdJyatKzozBoTSxrHyBMbgtV5u88GSo/edit?usp=sharing)
 - [최우수하조 노션](https://www.notion.so/2-U-1ffdfe6998a180b797abe3694663b95e?source=copy_link)
 
 
