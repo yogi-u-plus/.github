@@ -17,7 +17,9 @@
 
 ### ✨ 백엔드/프론트 기술스택
 <img width="1247" alt="image" src="https://github.com/user-attachments/assets/8dd5170e-10e6-4e2d-a177-54524fc7f56e" />
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/971f7502-953d-4cdb-9a28-18b18a4af88f" />
+<div align="center">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/971f7502-953d-4cdb-9a28-18b18a4af88f" />
+</div>
 
 ### ✨ CI/CD 아키텍처
 <img width="1275" alt="image" src="https://github.com/user-attachments/assets/3926c7b1-38c8-48e7-8073-ff8823770b4f" />
