@@ -39,6 +39,13 @@
 ### ✨ 관리자 모듈 주요 기능
 <img width="1285" alt="image" src="https://github.com/user-attachments/assets/64fc0582-641c-43a3-8353-ab004f9c84e3" />
 
+### ✨ 트러블 슈팅 (1)
+<img width="1256" alt="image" src="https://github.com/user-attachments/assets/93b95aed-3118-46cd-b4c2-ebc7e0c763ed" />
+
+### ✨ 트러블 슈팅 (2)
+<img width="1260" alt="image" src="https://github.com/user-attachments/assets/28079cc1-0bbb-4d06-800f-5f7772d18eee" />
+
+
 ---------------------
 
 ### ✨ 부가 참고 자료
