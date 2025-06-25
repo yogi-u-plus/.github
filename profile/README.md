@@ -13,7 +13,9 @@
 <img width="1291" alt="image" src="https://github.com/user-attachments/assets/2e114948-ed30-4a18-989c-ccd8990e4ef0" />
 
 ### ✨ ERD 설계
-![image](https://github.com/user-attachments/assets/08b5a262-01fb-4340-98e9-379667ae740d)
+<img width="1268" alt="image" src="https://github.com/user-attachments/assets/4bdedf3c-14fd-4618-95c2-1e5ac088b54f" />
+
+
 
 ### ✨ 백엔드/프론트 기술스택
 <img width="1247" alt="image" src="https://github.com/user-attachments/assets/8dd5170e-10e6-4e2d-a177-54524fc7f56e" />
