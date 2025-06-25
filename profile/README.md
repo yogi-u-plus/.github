@@ -1,7 +1,8 @@
 <img width="1693" alt="image" src="https://github.com/user-attachments/assets/7ac60714-ad0d-4d7b-9f4d-1152c8def238" />
 <img width="1722" alt="image" src="https://github.com/user-attachments/assets/f473672a-968b-4312-a57a-75cb10a08bb4" />
     
-<br>
+</br>
+
 ### ✨ 유레카 종합 프로젝트 2조 [최우수수상]
 <img width="1614" alt="image" src="https://github.com/user-attachments/assets/747b4ce3-ec66-4621-9dbc-950867b4c714" />
 
