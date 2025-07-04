@@ -49,7 +49,7 @@
 ---------------------
 
 ### ✨ 부가 참고 자료
-🔗 [요기 U+_시연 영상](https://www.youtube.com/watch?v=7GigT9pcmN0) </br>
+🔗 [요기 U+ 시연 영상](https://www.youtube.com/watch?v=ValHV7uaUPY) </br>
 🔗 [요기 U+ 발표 자료](https://www.miricanvas.com/v/14sb57t) </br>
 🔗 [요기 U+ 화면설계서](https://docs.google.com/presentation/d/19dwJGayGG2ZbSe_dLF5Zf4MvVnqt3qHGJFCBUD_hlZs/edit?usp=sharing) </br>
 🔗 [요기 U+ 기확안](https://docs.google.com/document/d/1Yg1epSkwoV-PPdJyatKzozBoTSxrHyBMbgtV5u88GSo/edit?usp=sharing) </br>
