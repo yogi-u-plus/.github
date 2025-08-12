@@ -7,7 +7,12 @@
 <img width="1614" alt="image" src="https://github.com/user-attachments/assets/747b4ce3-ec66-4621-9dbc-950867b4c714" />
 
 ### ✨ 팀원 소개
-<img width="948" alt="image" src="https://github.com/user-attachments/assets/3cdc656c-7b84-434b-8403-a62b63271131" />
+| <p align="center"><img src="https://github.com/user-attachments/assets/922e9517-00f0-4e0a-a3b8-558fc4d177a9" height="160"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/ba6ba919-95e6-4f12-9115-63947dfb8d93" height="160"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/a7468493-c1b8-4f1a-be3c-9492cdaf518e" height="160"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/2d0affd2-1b3d-4201-ace2-85d3eae35e94" height="160"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/779ae3d2-67b2-40b9-a8c4-49aa19d4c3b8" height="160"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/b8edf3d9-2a3b-4a15-a890-f939ae422295" height="160"/></p> |
+|---|---|---|---|---|---|
+| <p align="center">**서보인**</p> | <p align="center">**변지민**</p> | <p align="center">**김정민**</p> | <p align="center">**이종규**</p> | <p align="center">**정유민**</p> | <p align="center">**정현경**</p> |
+| <p align="center">조장</p> | <p align="center">팀원</p> | <p align="center">팀원</p> | <p align="center">팀원</p> | <p align="center">팀원</p> | <p align="center">팀원</p> |
+| <p align="center">AWS 인프라 구축<br>인증/인가 모듈</p> | <p align="center">요금제 모듈</p> | <p align="center">챗봇 모듈</p> | <p align="center">추천 시스템 모듈</p> | <p align="center">프론트 모듈<br>관리자 모듈</p> | <p align="center">사용자 모듈</p> |
+| <p align="center"><a href="https://github.com/sbi1024" target="_blank">sbi1024</a></p> | <p align="center"><a href="https://github.com/minschive" target="_blank">minschive</a></p> | <p align="center"><a href="https://github.com/jmk445" target="_blank">jmk445</a></p> | <p align="center"><a href="https://github.com/jklee3409" target="_blank">jklee3409</a></p> | <p align="center"><a href="https://github.com/mike7643" target="_blank">mike7643</a></p> | <p align="center"><a href="https://github.com/hyunnk" target="_blank">hyunnk</a></p> |
 
 ### ✨ 개발 일정
 <img width="1291" alt="image" src="https://github.com/user-attachments/assets/2e114948-ed30-4a18-989c-ccd8990e4ef0" />
