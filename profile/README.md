@@ -1,9 +1,12 @@
+## ✨ 통신성향 파악 및 상품 비교추천 서비스
+> LG U+ 유레카 부트캠프 종합 프로젝트 2조 **🥇최우수 수상🥇**           
+> 프로젝트 기간 : 25.06.02 ~ 25.06.24   
+> 팀명 : 최우수하조
+
 <img width="1693" alt="image" src="https://github.com/user-attachments/assets/7ac60714-ad0d-4d7b-9f4d-1152c8def238" />
 <img width="1722" alt="image" src="https://github.com/user-attachments/assets/f473672a-968b-4312-a57a-75cb10a08bb4" />
     
 </br>
-
-### ✨ 유레카 종합 프로젝트 2조 - **최우수 수상 🥇** 
 <img width="1614" alt="image" src="https://github.com/user-attachments/assets/747b4ce3-ec66-4621-9dbc-950867b4c714" />
 
 ### ✨ 프로젝트 기획 및 배경
@@ -12,15 +15,11 @@
 ### ✨ 팀원 소개
 <img width="948" alt="image" src="https://github.com/user-attachments/assets/3cdc656c-7b84-434b-8403-a62b63271131" />
 
-
 ### ✨ 개발 일정
 <img width="1291" alt="image" src="https://github.com/user-attachments/assets/2e114948-ed30-4a18-989c-ccd8990e4ef0" />
 
 ### ✨ ERD 설계
 <img width="1471" height="1065" alt="image" src="https://github.com/user-attachments/assets/c99d0113-1c94-4816-af73-ccae4f8c6dcd" />
-
-
-
 
 ### ✨ 백엔드/프론트 기술스택
 <img width="1247" alt="image" src="https://github.com/user-attachments/assets/8dd5170e-10e6-4e2d-a177-54524fc7f56e" />
