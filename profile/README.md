@@ -6,6 +6,9 @@
 ### ✨ 유레카 종합 프로젝트 2조 - **최우수 수상 🥇** 
 <img width="1614" alt="image" src="https://github.com/user-attachments/assets/747b4ce3-ec66-4621-9dbc-950867b4c714" />
 
+### ✨ 프로젝트 기획 및 배경
+<img width="1435" height="543" alt="image" src="https://github.com/user-attachments/assets/3a6157ce-151e-4179-9610-11fb2e6da30b" />
+
 ### ✨ 팀원 소개
 <img width="948" alt="image" src="https://github.com/user-attachments/assets/3cdc656c-7b84-434b-8403-a62b63271131" />
 
