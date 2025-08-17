@@ -13,7 +13,9 @@
 <img width="1435" height="543" alt="image" src="https://github.com/user-attachments/assets/3a6157ce-151e-4179-9610-11fb2e6da30b" />
 
 ## ✨ 팀원 소개
-<img width="948" alt="image" src="https://github.com/user-attachments/assets/3cdc656c-7b84-434b-8403-a62b63271131" />
+<div align="center">
+    <img width="852" height="670" alt="image" src="https://github.com/user-attachments/assets/93e14fec-69c1-47f0-9d57-7800e239dcbb" />
+</div>
 
 ## ✨ 개발 일정
 <img width="1291" alt="image" src="https://github.com/user-attachments/assets/2e114948-ed30-4a18-989c-ccd8990e4ef0" />
